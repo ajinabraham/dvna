@@ -1,4 +1,4 @@
-name: njsscan
+name: njsscan sarif
 on:
   push:
     branches: [ master ]
